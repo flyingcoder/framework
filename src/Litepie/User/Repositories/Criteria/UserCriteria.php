@@ -2,8 +2,8 @@
 
 namespace Litepie\User\Repositories\Criteria;
 
-use Litepie\Contracts\Database\Criteria;
-use Litepie\Contracts\Database\Repository;
+use Litepie\Contracts\Repository\Criteria;
+use Litepie\Contracts\Repository\Repository;
 
 class UserCriteria implements Criteria
 {
